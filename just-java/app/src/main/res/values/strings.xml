@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Just Java</string>
+    <string name="quantity">Quantity</string>
+    <string name="order">Order</string>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="name">Name</string>
+    <string name="too_many_coffees">Wow, too much caffeine, bro.</string>
+    <string name="too_few_coffees">How will you drink 0 coffees, bro?</string>
+    <string name="order_incoming">Coffee order incoming from</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="total">Total</string>
+    <string name="thank_you">Thank you</string>
+</resources>
